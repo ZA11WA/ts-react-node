@@ -1,0 +1,41 @@
+{
+  "name": "ram-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/poppins": "^5.0.8",
+    "@mui/icons-material": "^5.14.5",
+    "@mui/material": "^5.15.5",
+    "@reduxjs/toolkit": "^2.2.3",
+    "axios": "^1.6.5",
+    "core-js": "^3.35.0",
+    "framer-motion": "^10.18.0",
+    "jsonwebtoken": "^9.0.2",
+    "jwt-decode": "^4.0.0",
+    "next": "14.0.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hook-form": "^7.51.4",
+    "react-redux": "^9.1.2",
+    "react-toastify": "^10.0.5",
+    "typescript-cookie": "^1.0.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18.3.2",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "typescript": "^5"
+  }
+}
